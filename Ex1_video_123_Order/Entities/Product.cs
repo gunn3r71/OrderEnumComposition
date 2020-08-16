@@ -1,0 +1,14 @@
+﻿namespace Ex1_video_123_Order.Entities
+{
+    class Product
+    {
+        public string Name { get; set; }
+        public double Price { get; set; }
+
+        public Product(string name, double price)
+        {
+            Name = name;
+            Price = price;
+        }
+    }
+}

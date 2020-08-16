@@ -1,0 +1,13 @@
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\bin\Debug\netcoreapp3.1\Ex1_video_123_Order.exe
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\bin\Debug\netcoreapp3.1\Ex1_video_123_Order.deps.json
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\bin\Debug\netcoreapp3.1\Ex1_video_123_Order.runtimeconfig.json
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\bin\Debug\netcoreapp3.1\Ex1_video_123_Order.runtimeconfig.dev.json
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\bin\Debug\netcoreapp3.1\Ex1_video_123_Order.dll
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\bin\Debug\netcoreapp3.1\Ex1_video_123_Order.pdb
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\obj\Debug\netcoreapp3.1\Ex1_video_123_Order.csprojAssemblyReference.cache
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\obj\Debug\netcoreapp3.1\Ex1_video_123_Order.AssemblyInfoInputs.cache
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\obj\Debug\netcoreapp3.1\Ex1_video_123_Order.AssemblyInfo.cs
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\obj\Debug\netcoreapp3.1\Ex1_video_123_Order.csproj.CoreCompileInputs.cache
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\obj\Debug\netcoreapp3.1\Ex1_video_123_Order.dll
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\obj\Debug\netcoreapp3.1\Ex1_video_123_Order.pdb
+D:\Curso CSHARP\Ex1_video_123_Order\Ex1_video_123_Order\obj\Debug\netcoreapp3.1\Ex1_video_123_Order.genruntimeconfig.cache
